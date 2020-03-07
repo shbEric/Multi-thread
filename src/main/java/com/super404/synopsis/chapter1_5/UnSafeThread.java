@@ -1,4 +1,4 @@
-package com.super404.synopsis;
+package com.super404.synopsis.chapter1_5;
 
 import java.util.concurrent.CountDownLatch;
 

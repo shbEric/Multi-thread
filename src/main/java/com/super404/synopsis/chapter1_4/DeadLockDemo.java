@@ -1,4 +1,4 @@
-package com.super404.synopsis;
+package com.super404.synopsis.chapter1_4;
 
 /**
  * 死锁demo
