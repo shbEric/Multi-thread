@@ -1,5 +1,3 @@
-package com.super404.communication.chapter5_6;
-
 import java.util.HashMap;
 
 public class tes {
